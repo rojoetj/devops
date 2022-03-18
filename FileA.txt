@@ -1,1 +1,2 @@
 "This is fileA" 
+"This is fileA v1.0" 
